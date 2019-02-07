@@ -13,6 +13,6 @@
    },
    "UpdateMessage":{
       "Message":" Hi Now we can filter project at task screen using filter project button (heart shaped button at top left). This is helpful to disply only the project you are woking in these days.",
-      "Version":0
+      "Version":1
    }
 }
