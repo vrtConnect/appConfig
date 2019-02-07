@@ -1,6 +1,6 @@
 {
-   "MinimumSuportedVersion":"4.2.1",
-   "LatestAppVersion":"4.2.0",
+   "MinimumSuportedVersion":"4.2.2",
+   "LatestAppVersion":"4.2.1",
    "UpgradeMethod":"0",
    "LogLevel":"5",
    "AuthenticatorURL":{
@@ -12,7 +12,7 @@
       "Ios":"https://itunes.apple.com/us/app/twitter/id333903271?mt=8"
    },
    "UpdateMessage":{
-      "Message":"Now we can filter project at task screen using filter project button (heart shaped button at top left). This is helpful to disply only the project you are woking in these days.",
-      "Version":1
+      "Message":" Hi Now we can filter project at task screen using filter project button (heart shaped button at top left). This is helpful to disply only the project you are woking in these days.",
+      "Version":0
    }
 }
