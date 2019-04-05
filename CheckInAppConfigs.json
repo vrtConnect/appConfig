@@ -1,6 +1,6 @@
 {
    "MinimumSuportedVersion":"4.2.0",
-   "LatestAppVersion":"4.2.1",
+   "LatestAppVersion":"5.0.0",
    "UpgradeMethod":"0",
    "LogLevel":"0",
    "AuthenticatorURL":{
@@ -8,11 +8,11 @@
       "Ios":"https://itunes.apple.com/us/app/microsoft-authenticator/id983156458?mt=8"
    },
    "CheckInURL":{
-      "Android":"https://play.google.com/store/apps/details?id=com.solution.eapp.srilankangazettecurrupt",
+      "Android":"https://play.google.com/store/apps/details?id=com.virtusa.eag.checkin",
       "Ios":"https://itunes.apple.com/us/app/twitter/id333903271?mt=8currupt"
    },
    "UpdateMessage":{
-      "Message":" Hi Now we can filter project at task screen using filter project button (heart shaped button at top left). This is helpful to disply only the project you are woking in these days.",
+      "Message":" Welcome to CheckIn.",
       "Version":0
    }
 }
