@@ -1,1 +1,18 @@
-{}
+{
+   "MinimumSuportedVersion":"4.2.0",
+   "LatestAppVersion":"5.0.6",
+   "UpgradeMethod":"0",
+   "LogLevel":"4",
+   "AuthenticatorURL":{
+      "Android":"https://play.google.com/store/apps/details?id=com.azure.authenticator&hl=en",
+      "Ios":"https://itunes.apple.com/us/app/microsoft-authenticator/id983156458?mt=8"
+   },
+   "CheckInURL":{
+      "Android":"https://play.google.com/store/apps/details?id=com.virtusa.eag.checkin",
+      "Ios":"https://itunes.apple.com/us/app/twitter/id333903271?mt=8currupt"
+   },
+   "UpdateMessage":{
+      "Message":" Welcome to CheckIn.",
+      "Version":0
+   }
+}
