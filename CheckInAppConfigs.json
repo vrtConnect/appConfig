@@ -1,6 +1,6 @@
 {
    "MinimumSuportedVersion":"4.2.0",
-   "LatestAppVersion":"5.1.0",
+   "LatestAppVersion":"5.1.3",
    "UpgradeMethod":"0",
    "LogLevel":"4",
    "AuthenticatorURL":{
