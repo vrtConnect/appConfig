@@ -1,7 +1,7 @@
 {
-   "MinimumSuportedVersion":"4.2.0",
-   "LatestAppVersion":"5.1.3",
-   "UpgradeMethod":"0",
+   "MinimumSuportedVersion":"6.1.0",
+   "LatestAppVersion":"6.1.0",
+   "UpgradeMethod":"2",
    "LogLevel":"4",
    "AuthenticatorURL":{
       "Android":"https://play.google.com/store/apps/details?id=com.azure.authenticator&hl=en",
